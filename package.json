@@ -1,0 +1,30 @@
+{
+  "name": "lite-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmsteve/lite-server.git"
+  },
+  "author": "Mwaura Njugi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmsteve/lite-server/issues"
+  },
+  "homepage": "https://github.com/nmsteve/lite-server#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
