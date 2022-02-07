@@ -39,3 +39,13 @@ body{
 .navbar-dark {
     background: #512DA8;
 }
+
+.icon {
+    padding: 5px;
+}
+
+.btn{
+    color: white;
+    width: 8em;
+    margin: 1em;
+}
