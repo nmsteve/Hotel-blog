@@ -71,3 +71,14 @@ width: auto;
 address-aboutus{
     font-size: 100%
 }
+
+.divtest {
+    height: 5rem;
+    background-color: green;
+
+}
+
+.card-header{
+    margin: 0;
+    
+}
