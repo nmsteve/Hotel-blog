@@ -1,6 +1,7 @@
 # Hotel-blog
 
-A hotel Blog developed using Boostrap,CSS3, HTML5 & Javascript.
+A hotel Blog developed using Boostrap,CSS3, HTML5 & Javascript. 
+https://nmsteve.github.io/Hotel-blog/
 
 ## Running the code locally
 use a node module **lite-server** to host a website locally.
