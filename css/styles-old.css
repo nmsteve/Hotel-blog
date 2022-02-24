@@ -1,0 +1,118 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+   
+    margin: 10px auto;
+    padding: 10px 50px 10px 10px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer{
+    background-color: aliceblue;
+    margin: 0px auto;
+    padding: 20px 5px 5px 20px;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+    color: floralwhite;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+
+}
+
+body{
+    padding: 50px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background: #512DA8;
+}
+
+.icon {
+    padding: 5px;
+
+}
+
+.btn{
+    color: white;
+    width: 8em;
+    margin: 1em;
+}
+
+.btn-feedback{
+width: auto;
+}
+
+.btn-youtube {
+    background-color: red;
+}
+
+.btn-linkedin{
+    background-color: #1DA1F2;
+}
+
+.btn-twitter {
+    background-color: #0e76a8;
+}
+
+
+address-aboutus{
+    font-size: 100%
+}
+
+.divtest {
+    height: 5rem;
+    background-color: green;
+
+}
+
+.card-header{
+    margin: 0;
+    
+}
+
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;}
+
+#carouselButton {
+        right:0px;
+        position: absolute;
+        bottom: 0px;
+        z-index: 1;
+        width: 2rem;
+       
+    }
+
