@@ -74,3 +74,63 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+
+.icon {
+    padding: 5px;
+
+}
+
+.btn{
+    color: white;
+    width: 8em;
+    margin: 1em;
+}
+
+.btn-feedback{
+width: auto;
+}
+
+.btn-youtube {
+    background-color: red;
+}
+
+.btn-linkedin{
+    background-color: #1DA1F2;
+}
+
+.btn-twitter {
+    background-color: #0e76a8;
+}
+
+
+address-aboutus{
+    font-size: 100%
+}
+
+.divtest {
+    height: 5rem;
+    background-color: green;
+
+}
+
+.card-header{
+    margin: 0;
+    
+}
+
+
+.modal-header {
+    background-color:$background-dark;
+    color: floralwhite;
+
+    .close{
+        color: floralwhite;
+    }
+}
+
+.modal-body {
+    background-color: $background-pale;
+    
+}
+
