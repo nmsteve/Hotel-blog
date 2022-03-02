@@ -28,7 +28,6 @@ $('#ReserveModal').modal('show');
 
 $('.cancel-modal').click(function(){
 $('#ReserveModal').modal('hide');
-
 });
 
 
